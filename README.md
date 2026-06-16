@@ -1,6 +1,6 @@
 📊 Data Analysis Project Using Python & SQL
 🚀 Project Overview
-
+https://github.com/awsdevopsrony1/DATA_ANALYS_PROJECT-USING-PYTHON-AND-SQL/blob/main/walmart_sales_project_flowchart.png
 This project demonstrates a complete ETL (Extract, Transform, Load) workflow using Python, Pandas, SQLAlchemy, Microsoft SQL Server, and Kaggle API.
 
 The objective was to download a dataset from Kaggle, clean and preprocess the data using Pandas, and load the transformed dataset into SQL Server for further analysis and reporting.
